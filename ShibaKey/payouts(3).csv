@@ -1,0 +1,3 @@
+id;user_id;system_title;system;system_payment_id;view_purse;amount;amount_final;currency;system_amount;system_amount_final;system_currency;commisions_fixed;commisions_exchange;commisions_percent;state_current;created_at
+48529534;16032701;"Банковская карта";bankCard;;"4165 98·· ···· ····";23.7856285;20.28677047;USD;21.2334306;18.11;EUR;1;2.1233430559832;0;error;"2026-10-10 01:13:12"
+"# Total: 1 rows"
